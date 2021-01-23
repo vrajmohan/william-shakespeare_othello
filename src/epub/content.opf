@@ -44,9 +44,8 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">Jealousy destroys the marriage between an older, black man and a younger, white woman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Othello&lt;/i&gt; is a tragedy by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt;, written in 1603. It is based on “Un Capitano Moro,” one of the stories in Cinthio’s Hecatommithi, written in 1565.&lt;/p&gt;
-			&lt;p&gt;Othello is a black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator.&lt;/p&gt;
-			&lt;p&gt;Othello promotes Cassio to be his lieutenant over Iago, his ensign. The evil Iago gets his revenge by sowing doubts in the mind of Othello, alleging an affair between Cassio and Desdemona.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Othello&lt;/i&gt; is a tragedy by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt;, written in 1603. It is based on “A Moorish Captain,” one of the stories in Cinthio’s &lt;i&gt;Hecatommithi&lt;/i&gt;, written in 1565.&lt;/p&gt;
+			&lt;p&gt;Othello is a black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator. Othello promotes Cassio to be his lieutenant over Iago, his ensign. The evil Iago gets his revenge by sowing doubts in the mind of Othello, alleging an affair between Cassio and Desdemona.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -59,12 +58,11 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_othello</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author">Shakespeare, William</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Shakespeare</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78095332</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">William Mulready</dc:contributor>
-		<meta property="file-as" refines="#artist">Mulready, William </meta>
+		<meta property="file-as" refines="#artist">Mulready, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Mulready</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79106102</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
